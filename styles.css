@@ -1,0 +1,136 @@
+body {
+
+  line-height: 1.5;
+  margin: auto;
+  width: 60%;
+  padding-bottom: 100px;
+
+  background: linear-gradient(blue,30%, violet);
+  background-size: cover;
+}
+
+header {
+  padding-top: 10%;
+
+}
+
+section { 
+  font-weight: bold;
+  float: none;
+  margin: 0 auto;
+
+}
+
+article {
+  margin: 25px 0;
+}
+
+h1 {
+   padding-bottom: 20px;
+   margin-left: 320px;
+  font-family: 'Pattaya', sans-serif;
+  font-size: 42px;
+  color:rgb(28, 45, 204);
+}
+
+h2{
+  padding-bottom: 20px;
+  font-family: 'Pattaya', sans-serif;
+  font-size: 36px;
+  color:rgb(28, 45, 204);
+  font-weight: normal;
+}
+
+span {
+  font-size: 20px;
+  /*color: green;
+  padding-left: 20px;
+  padding-right: 20px; */
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.info, a {
+  line-height: 2.5;
+  margin-left: 15px;
+  color: gold;
+}
+
+
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 2;
+  width: 85%;
+}
+
+li {
+  font-style: italic;
+ }
+
+.avatar {
+  width: 20%;
+  border-radius: 50%;
+} 
+
+.title{
+  margin-top: -100px;
+  font-size: 48px;
+  font-family: 'Pattaya', sans-serif;
+  float: right;
+  width: 60%;
+  color: rgb(177, 88, 16); 
+}
+
+.subtitle {
+  margin-top: -15px;
+  
+  font-size: 16;
+  font-family: "Lemonada", "Arial", sans-serif;
+  float: right;
+  width: 50%;
+  color: grey; 
+}
+
+.skills {
+ 
+   color: green;
+}
+
+.sertificat_conteiner {
+  display: flex;
+  justify-content: space-around;
+}
+
+.stepic_sertificat {
+  width: 20%;
+  height: auto;
+  opacity: 1;
+  margin-right: 100px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.stepic_sertificat:hover, .codeSamples:hover {
+ opacity: 0.5;
+}
+
+.exampl_link_1 {
+  
+  width: 200px;
+  height: auto;
+
+}
+
+.throught {
+  text-decoration: line-through;
+}
+
+summary {
+  cursor: pointer;
+}
