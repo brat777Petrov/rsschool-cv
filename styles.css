@@ -117,7 +117,7 @@ li {
 }
 
 .stepic_sertificat:hover, .codeSamples:hover {
- opacity: 0.5;
+ opacity: 0.8;
 }
 
 .exampl_link_1 {
@@ -126,6 +126,19 @@ li {
   height: auto;
 
 }
+
+.exampl_link_2 {
+  
+  width: 600px;
+  height: 360px;
+
+}
+
+.rs_logo, .vk_logo {
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
 
 .throught {
   text-decoration: line-through;
