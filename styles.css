@@ -62,6 +62,8 @@ a {
 
 
 p {
+  margin-bottom: 20px;
+  text-indent: 30px;
   font-size: 20px;
   font-weight: bold;
   font-style: italic;
@@ -107,7 +109,7 @@ li {
   justify-content: space-around;
 }
 
-.stepic_sertificat {
+.sertificat {
   width: 20%;
   height: auto;
   opacity: 1;
@@ -116,7 +118,7 @@ li {
   margin-top: 20px;
 }
 
-.stepic_sertificat:hover, .codeSamples:hover {
+.sertificat:hover, .codeSamples:hover {
  opacity: 0.8;
 }
 
