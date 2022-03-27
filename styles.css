@@ -109,7 +109,7 @@ li {
   justify-content: space-around;
 }
 
-.stepic_sertificat {
+.sertificat {
   width: 20%;
   height: auto;
   opacity: 1;
@@ -118,7 +118,7 @@ li {
   margin-top: 20px;
 }
 
-.stepic_sertificat:hover, .codeSamples:hover {
+.sertificat:hover, .codeSamples:hover {
  opacity: 0.8;
 }
 
